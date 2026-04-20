@@ -24,7 +24,9 @@ Learning...
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![SQL](https://img.shields.io/badge/SQL-F29111?style=for-the-badge)### **AI / ML & Data Science**
+![SQL](https://img.shields.io/badge/SQL-F29111?style=for-the-badge)
+
+### **AI / ML & Data Science**
 
 ### **Developer Tools**
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
