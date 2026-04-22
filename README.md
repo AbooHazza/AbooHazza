@@ -32,6 +32,11 @@ Learning...
 
 ---
 
+## 🏅 Certificates
+[View My Badge](https://www.credly.com/badges/7553ec78-50ff-41ed-9c48-4cf217227eb0)
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbooHazza&show_icons=true&theme=radical)
