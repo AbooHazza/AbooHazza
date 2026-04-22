@@ -34,7 +34,7 @@ Learning...
 
 ## 🏅 Certificates
 
-[![IBM Certificate](https://img.shields.io/badge/IBM-Certificate-blue?style=for-the-badge&logo=ibm)](https://www.credly.com/badges/7553ec78-50ff-41ed-9c48-4cf217227eb0)
+[![IBM Badge](assets/ibm-badge.jpg)](https://www.credly.com/badges/7553ec78-50ff-41ed-9c48-4cf217227eb0)
 
 ---
 
