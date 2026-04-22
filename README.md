@@ -34,7 +34,7 @@ Learning...
 
 ## 🏅 Certificates
 
-[![My Certificate](https://img.shields.io/badge/Credly-Certificate-orange?style=for-the-badge&logo=googlechrome)](https://www.credly.com/badges/7553ec78-50ff-41ed-9c48-4cf217227eb0)
+[![IBM Certificate](assets/ibm.jpg)](https://www.credly.com/badges/7553ec78-50ff-41ed-9c48-4cf217227eb0)
 
 ---
 
