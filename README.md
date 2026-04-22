@@ -35,8 +35,13 @@ Learning...
 ## 🏅 Certificates
 
 <a href="https://www.credly.com/badges/7553ec78-50ff-41ed-9c48-4cf217227eb0">
-  <img src="make-agentic-ai-work-for-you.png" width="200" alt="IBM Badge"/>
+  <img src="make-agentic-ai-work-for-you.png" alt="IBM Badge"/>
 </a>
+
+<!-- يمكنك إضافة شهادات أخرى بنفس الطريقة -->
+<!-- <a href="رابط الشهادة">
+     <img src="assets/اسم_الصورة.png" alt="Badge"/>
+</a> -->
 
 ---
 
