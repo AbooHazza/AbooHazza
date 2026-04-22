@@ -34,7 +34,7 @@ Learning...
 
 ## 🏅 Certificates
 
-[![IBM Badge](assets/ibm-badge.jpg)](https://www.credly.com/badges/7553ec78-50ff-41ed-9c48-4cf217227eb0)
+[![IBM Badge](assets/make-agentic-ai-work-for-you.png)](https://www.credly.com/badges/7553ec78-50ff-41ed-9c48-4cf217227eb0)
 
 ---
 
