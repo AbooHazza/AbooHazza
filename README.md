@@ -34,7 +34,15 @@ Learning...
 
 ## 🏅 Certificates
 
-[![IBM Badge](make-agentic-ai-work-for-you.png)](https://www.credly.com/badges/7553ec78-50ff-41ed-9c48-4cf217227eb0)
+<a href="https://www.credly.com/badges/7553ec78-50ff-41ed-9c48-4cf217227eb0">
+  <img src="assets/make-agentic-ai-work-for-you.png" width="200"/>
+</a>
+
+<!-- يمكنك إضافة شهادات أخرى بنفس الطريقة -->
+<!-- <a href="رابط الشهادة">
+     <img src="assets/اسم_الصورة.png" width="200"/>
+</a> -->
+
 ---
 
 ## 📊 GitHub Stats
