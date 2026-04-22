@@ -34,7 +34,7 @@ Learning...
 
 ## 🏅 Certificates
 
-[![View Certificate](https://img.shields.io/badge/View%20Certificate-Click%20Here-blue?style=for-the-badge)](https://www.credly.com/badges/7553ec78-50ff-41ed-9c48-4cf217227eb0)
+[![My Certificate](https://images.credly.com/size/340x340/images/7553ec78-50ff-41ed-9c48-4cf217227eb0/image.png)](https://www.credly.com/badges/7553ec78-50ff-41ed-9c48-4cf217227eb0)
 
 ---
 
