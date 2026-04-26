@@ -5,6 +5,7 @@
 Learning...
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aboohazza&label=Profile%20views&color=0e75b6&style=flat" alt="aboohazza" /> </p>
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/5.fso/)
