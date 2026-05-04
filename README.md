@@ -48,4 +48,4 @@ Learning...
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbooHazza&show_icons=true&theme=radical&cache_seconds=60)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AbooHazza&theme=radical)
