@@ -8,7 +8,7 @@ Skilled in Python, C++, SQL, GitHub, Problem Solving, Teamwork, and Communicatio
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aboohazza&label=Profile%20views&color=0e75b6&style=flat" alt="aboohazza" /> </p>
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/5.fso/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moyed-alaybani-25a4a437b/)
 
 ---
