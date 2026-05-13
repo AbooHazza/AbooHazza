@@ -2,8 +2,8 @@
 
 # Hi, I'm Moyed 👋
 
-Learning...
-
+Computer Science Student | Aspiring AI Engineer  
+Skilled in Python, C++, SQL, GitHub, Problem Solving, Teamwork, and Communication.
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aboohazza&label=Profile%20views&color=0e75b6&style=flat" alt="aboohazza" /> </p>
 
