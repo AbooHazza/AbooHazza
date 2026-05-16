@@ -10,7 +10,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -30,7 +30,7 @@
 
 ---
 
-## 🏅 Certificates
+## Certificates
 
 <a href="https://www.credly.com/badges/7553ec78-50ff-41ed-9c48-4cf217227eb0">
   <img src="make-agentic-ai-work-for-you.png" alt="IBM Badge"/>
@@ -43,6 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AbooHazza&theme=radical)
