@@ -48,4 +48,4 @@ Building software projects and improving AI skills
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AbooHazza&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aboohazza&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aboohazza&layout=compact&theme=radical)
