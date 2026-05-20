@@ -26,23 +26,9 @@ Building software projects and improving AI skills
 
 
 
-<!-- Languages -->
-![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=FFD43B)
-![C++](https://img.shields.io/badge/C++-FF6B6B?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2EC4B6?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<!-- IDEs & Tools -->
-![VS Code](https://img.shields.io/badge/VS_Code-7F77DD?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
-![Xcode](https://img.shields.io/badge/Xcode-BA7517?style=for-the-badge&logo=xcode&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,sqlite,git,github,vscode,tensorflow,pytorch,sklearn)](https://skillicons.dev)
 
-<!-- Version Control -->
-![GitHub](https://img.shields.io/badge/GitHub-2C2C2A?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-D85A30?style=for-the-badge&logo=git&logoColor=white)
-
-<!-- Other Skills -->
-![Power BI](https://img.shields.io/badge/Power_BI-D4537E?style=for-the-badge&logo=powerbi&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-0F6E56?style=for-the-badge&logo=code&logoColor=white)
 
 
 
