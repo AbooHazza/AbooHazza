@@ -1,4 +1,3 @@
-![Cool GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 # Hi, I'm Moyed
 
@@ -13,9 +12,12 @@ Building software projects and improving AI skills
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moyed-alaybani-25a4a437b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-AbooHazza.github.io-ff7b4d?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://AbooHazza.github.io)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/moyed-alaybani-25a4a437b/)
 
 ---
+
 
 ## Tech Stack
 
