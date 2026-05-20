@@ -45,6 +45,13 @@ Building software projects and improving AI skills
 ---
 
 
+## Currently Exploring
+
+- AI Engineering
+- MLOps & Automation
+- Self-Hosted AI Systems
+- Building Software Projects
+- Learning Modern AI Technologies
 
 
 
