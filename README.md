@@ -12,9 +12,9 @@ Building software projects and improving AI skills
 
 ## Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-AbooHazza.github.io-ff7b4d?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://AbooHazza.github.io)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/moyed-alaybani-25a4a437b/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/moyed-alaybani-25a4a437b/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-111111?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://AbooHazza.github.io)
 
 ---
 
