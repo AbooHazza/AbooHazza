@@ -41,7 +41,8 @@ Building software projects and improving AI skills
 
 ---
 
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AbooHazza&theme=radical)
+
+
+
 
