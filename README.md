@@ -13,8 +13,11 @@ Building software projects and improving AI skills
 ## Connect With Me
 
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/moyed-alaybani-25a4a437b/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-111111?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://AbooHazza.github.io)
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/moyed-alaybani-25a4a437b/)
+[![Portfolio](https://skillicons.dev/icons?i=github)](https://AbooHazza.github.io)
+
+
 
 ---
 
