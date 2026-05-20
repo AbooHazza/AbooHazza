@@ -24,15 +24,15 @@ Building software projects and improving AI skills
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-F29111?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-A2AAAD?style=for-the-badge\&logo=xcode\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![OOP](https://img.shields.io/badge/OOP-%2302569B.svg?style=for-the-badge\&logo=code\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFC857?style=for-the-badge&logo=python&logoColor=2B2D42)
+![C++](https://img.shields.io/badge/C++-FF6B6B?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2EC4B6?style=for-the-badge&logo=postgresql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-7F77DD?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-BA7517?style=for-the-badge&logo=xcode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2C2C2A?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-D85A30?style=for-the-badge&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-D4537E?style=for-the-badge&logo=powerbi&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-0F6E56?style=for-the-badge&logo=code&logoColor=white)
 
 ---
 
