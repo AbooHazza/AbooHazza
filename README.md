@@ -25,7 +25,7 @@ Building software projects and improving AI skills
 ## Tech Stack
 
 [![Languages](https://skillicons.dev/icons?i=py,cpp,sqlite)](https://skillicons.dev)
-[![AI & ML](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn)](https://skillicons.dev)
+[![AI / ML Frameworks & Libraries](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn)](https://skillicons.dev)
 [![IDEs](https://skillicons.dev/icons?i=visualstudio,pycharm)](https://skillicons.dev)
 [![Version Control](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 [![Apps](https://skillicons.dev/icons?i=notion,obsidian)](https://skillicons.dev)
