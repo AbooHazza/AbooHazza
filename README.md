@@ -32,7 +32,7 @@ Building software projects and improving AI skills
 [![Cloud](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev)
 
 
-
+ 
 ---
 
 ## Certificates
