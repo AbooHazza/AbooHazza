@@ -32,17 +32,6 @@ Building software projects and improving AI skills
 [![Cloud](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev)
 
 
- 
----
-
-## Certificates
-
-<a href="https://www.credly.com/badges/7553ec78-50ff-41ed-9c48-4cf217227eb0">
-  <img src="make-agentic-ai-work-for-you.png" width="110" alt="IBM Badge"/>
-</a>
-
----
-
 
 ## Currently Exploring
 
